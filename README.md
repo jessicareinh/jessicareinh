@@ -3,6 +3,12 @@ I am Jessica from Hamburg and I am exciting to learn a lot about ✨ Web Develop
 
 Just started the web development bootcamp at Neue Fische. 🪅🪩 
 
+Today I learned about:
+
+- VCS
+- mark down
+- github
+
 ![little chihuaha](https://media.giphy.com/media/mucJbtydzALRvRX5m5/giphy.gif)
   
 
