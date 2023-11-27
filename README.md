@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jessicareinh
-- 👀 I’m interested in learning everything about html, css and JS
-- 🌱 I’m currently learning all the basics to coding
+- 👀 I’m interested in learning everything about web development.
+- 🌱 Currently doing a Bootcamp.
   
 
 <!---
