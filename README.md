@@ -1,3 +1,4 @@
+# Hello, world. :-) 
 - 👋 Hi, I’m @jessicareinh
 - 👀 I’m interested in learning everything about web development.
 - 🌱 Currently doing a Bootcamp.
