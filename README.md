@@ -1,7 +1,8 @@
-# Hello, world. :-) 
-I am Jessica from Hamburg and I am exciting to learn a lot about ✨ Web Development✨
+# Hello, world. 
+I am from Hamburg and I am exciting to learn a lot about ✨ Web Development✨
 
-Just started the web development bootcamp at Neue Fische. 🪅🪩 
+
+Just started the web development bootcamp at Neue Fische. 🧜🪩 
 
 Today I learned about:
 
@@ -9,7 +10,13 @@ Today I learned about:
 - mark down
 - github
 
-![little chihuaha](https://media.giphy.com/media/mucJbtydzALRvRX5m5/giphy.gif)
+  
+ **feel free to connect**✌️
+
+ 
+<img src="https://media.giphy.com/media/mucJbtydzALRvRX5m5/giphy.gif" width=20% height=20%> 
+
+
   
 
 <!---
