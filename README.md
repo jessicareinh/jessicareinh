@@ -1,14 +1,10 @@
 # Hello, world. 
-I am from Hamburg and I am exciting to learn a lot about ✨ Web Development✨
+I am from Hamburg and I am excited to learn a lot about ✨ Web Development✨
 
 
 Just started the web development bootcamp at Neue Fische. 🧜🪩 
 
-Today I learned about:
-
-- VCS
-- mark down
-- github
+I already learned a lot about html, css & java script. Really lookin forward to learn react.
 
   
  **feel free to connect**✌️
