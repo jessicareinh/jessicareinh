@@ -1,11 +1,26 @@
 # Hello, world. 
-I am from Hamburg and I am excited to learn a lot about ✨ Web Development✨
+
+I am from Hamburg and I am  really excited to learn everything about ✨ Web Development✨
+
+## Current Tech Stack
+* **HTML**
+* **CSS**
+* **JavaScript**
+* **React**
+* **Next.js**
+* **Node.js**
+* **mongoDB**
+* **mongoose**
+
+## Other than coding I love
++ :fish_cake::ramen::taco::rice_ball::cherries: good food
++ :squid::boat::sunny::parasol_on_ground::ocean:	going on  boat trips
++ :magic_wand::sauna_person::nail_care::cherry_blossom:	:angel:			wellness 
 
 
-Just started the web development bootcamp at Neue Fische. 🧜🪩 
 
-Really interested in deepening my skills in react.js & next.js! 
 
+ 
   
  **feel free to connect**✌️
 
